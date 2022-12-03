@@ -1,6 +1,5 @@
-- 👋 Hi, I’m bean.zhang
-- 👀 I am Senior Security Engineer, SDL deep practitioner. Focus on application security penetration, code audit, and devsecops tool chain design and development.
-- 🌱 I’m currently learning codeQL
+- 👋 Hi, I’m bean.zhang. I am Senior Security Engineer, SDL deep practitioner. Focus on application security penetration, code audit, and devsecops tool chain design and development.
+
 - 📫 How to reach me zhlu32@126.com
 
 <!---
